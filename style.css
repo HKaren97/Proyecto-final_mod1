@@ -34,6 +34,7 @@ h2 {
 h3 {
     margin: 1.5rem 0;
     align-items: center;
+    font-size: 1.7rem;
         }
 
 
@@ -80,8 +81,9 @@ main {
 
 }
 
-#ubicacion {
-    margin: 1.5rem 0;
+#ubicación {
+    margin: 1.8rem 0;
+    align-items: end;
 }
 
 
@@ -123,12 +125,10 @@ main {
     text-decoration: underline;
 }
 
-/* Estilos para el contenedor del botón */
 .footer-button-container {
     margin-top: auto;
 }
 
-/* Estilos para el botón de enviar correo */
 .email-button {
     display: inline-block;
     background-color: #0073e6;
